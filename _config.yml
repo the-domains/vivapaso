@@ -1,0 +1,28 @@
+name: vivapaso
+favicon: null
+layout_spectrum: 0.09058556612581015
+typography_spectrum: 0.24633534206077456
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.22198005532845855
+  lightness: 0.1797448731958866
+  saturation: 0.6520414333790541
+  rhythmicContrast: 0.3049408479128033
+purpose: []
